@@ -1,2 +1,2 @@
 # class_P4T
-Collection of my coursework for the Python for Text course
+Collection of coursework from the Python for Text course
